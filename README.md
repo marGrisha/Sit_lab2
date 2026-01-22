@@ -1,3 +1,10 @@
+Volcano Database (Django + PostgreSQL)
+Датасет
+Используется датасет volcano с Kaggle:
+https://www.kaggle.com/datasets/texasdave/volcano-eruptions
+
+Файл датасета: volcano_eruptions.csv
+
 Структура базы данных
 База данных нормализована до третьей нормальной формы (3НФ).
 
